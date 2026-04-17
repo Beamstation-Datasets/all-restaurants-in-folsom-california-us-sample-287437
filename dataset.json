@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Folsom, California. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Folsom, California, US",
+  "export_job_id": "6e868f15-4f10-4323-b519-b1f903c76c57",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 287437,
+  "location_name": "Folsom",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-folsom-california-us-sample-287437",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/287437/beamstation_287437_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 17.12,
+  "sample_records": 19,
+  "sample_sha256": "266759733cb6b9a87ffa5ebb90646deb34940ff4efc34de5a81c6361e9d5707d",
+  "sample_size_bytes": 91323,
+  "total_records": 111,
+  "updated_at": "2026-03-31T14:42:11.326169+00:00"
+}
