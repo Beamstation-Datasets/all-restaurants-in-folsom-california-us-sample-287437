@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6e868f15-4f10-4323-b519-b1f903c76c57",
+  "export_job_id": "da289ba4-29de-485a-a9e1-255d753f4a1d",
   "id_short": 287437,
-  "published_at": "2026-04-17T07:16:25Z",
+  "published_at": "2026-04-17T19:15:16Z",
   "repo_name": "all-restaurants-in-folsom-california-us-sample-287437",
   "sample_asset_name": "beamstation_287437_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/287437/beamstation_287437_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 19,
   "sample_sha256": "266759733cb6b9a87ffa5ebb90646deb34940ff4efc34de5a81c6361e9d5707d",
   "sample_size_bytes": 91323,
-  "total_records": 111
+  "total_records": 195
 }
