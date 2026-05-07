@@ -1,6 +1,6 @@
 # All Restaurants in Folsom, California, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `287437` |
 | Location | Folsom |
 | Category | Restaurants |
-| Full dataset size | 196 records |
-| Free sample size | 19 records (9.69%) |
-| Last export | 2026-04-28T17:30:56.946611+00:00 |
+| Full dataset size | 205 records |
+| Free sample size | 20 records (9.76%) |
+| Last export | 2026-05-06T21:28:00.050023+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-folsom-california-us-sample-287437/releases/download/sample-latest/beamstation_287437_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
